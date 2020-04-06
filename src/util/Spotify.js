@@ -1,5 +1,5 @@
 const clientId = '18ca912fabfd449ab6372a113c8151be';
-const redirectUri = 'http://localhost:3000';
+const redirectUri = 'http://wojciech-gaudnik.surge.sh/';
 let accessToken;
 
 export const Spotify = {
